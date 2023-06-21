@@ -125,7 +125,7 @@ The following validation rules are applied to the user entity:
 
 ### Development
 
-The project can be imported and run using an IDE like Eclipse.
+The project can be imported and run using an IDE like Intellij.
 
 ### Test API
 
